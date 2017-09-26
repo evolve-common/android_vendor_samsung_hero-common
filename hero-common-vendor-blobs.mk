@@ -189,10 +189,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/hero-common/proprietary/lib64/libHpr_RecFace_dl_v1.0.so:system/lib64/libHpr_RecFace_dl_v1.0.so \
     vendor/samsung/hero-common/proprietary/lib64/libHpr_TaskFaceClustering_hierarchical_v1.0.so:system/lib64/libHpr_TaskFaceClustering_hierarchical_v1.0.so \
     vendor/samsung/hero-common/proprietary/vendor/lib/libSEF.so:system/vendor/lib/libSEF.so \
-    vendor/samsung/hero-common/proprietary/vendor/lib/libHpr_LocFace_mvfd_v1.0.so:system/vendor/lib/libHpr_LocFace_mvfd_v1.0.so \
     vendor/samsung/hero-common/proprietary/vendor/lib/libHpr_LocLandmark_sdm_v1.0.so:system/vendor/lib/libHpr_LocLandmark_sdm_v1.0.so \
     vendor/samsung/hero-common/proprietary/vendor/lib64/libSEF.so:system/vendor/lib64/libSEF.so \
-    vendor/samsung/hero-common/proprietary/vendor/lib64/libHpr_LocFace_mvfd_v1.0.so:system/vendor/lib64/libHpr_LocFace_mvfd_v1.0.so \
     vendor/samsung/hero-common/proprietary/vendor/lib64/libHpr_LocLandmark_sdm_v1.0.so:system/vendor/lib64/libHpr_LocLandmark_sdm_v1.0.so \
     vendor/samsung/hero-common/proprietary/etc/wifi/bcmdhd_apsta.bin_b1:system/etc/wifi/bcmdhd_apsta.bin_b1 \
     vendor/samsung/hero-common/proprietary/etc/wifi/bcmdhd_apsta.bin_b90s_b1:system/etc/wifi/bcmdhd_apsta.bin_b90s_b1 \
